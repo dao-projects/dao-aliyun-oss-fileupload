@@ -1,0 +1,25 @@
+{
+  "name": "dao-aliyun-oss-fileupload",
+  "version": "1.0.0",
+  "description": "阿里云OSS文件上传（浏览器直传方案） - 可以用于小程序、手机版、PC等纯前端操作",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dao-projects/dao-aliyun-oss-fileupload.git"
+  },
+  "keywords": [
+    "aliyun",
+    "oss",
+    "fileupload",
+    "js"
+  ],
+  "author": "daoxin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dao-projects/dao-aliyun-oss-fileupload/issues"
+  },
+  "homepage": "https://github.com/dao-projects/dao-aliyun-oss-fileupload#readme"
+}
