@@ -16,5 +16,11 @@ $ cd dao-aliyun-oss-fileupload
 $ npm init
 
 
-https://github.com/dao-projects/dao-aliyun-oss-fileupload.git
+git clone https://github.com/dao-projects/dao-aliyun-oss-fileupload.git
+git config  user.email liuhangbiaoo@gmail.com
+git config  user.name  daoxin
+git add .
+git commit -m 10点51分
+git pull
+git push
 ```
